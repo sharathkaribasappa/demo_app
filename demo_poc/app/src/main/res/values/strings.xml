@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo_poc</string>
+    <string name="title_activity_landing">LandingActivity</string>
+</resources>
